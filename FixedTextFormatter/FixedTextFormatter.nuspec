@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>FixedTextFormatter</id>
+    <title>FixedTextFormatter</title>
+    <version>1.0.0</version>
+    <authors>Matt Mondok</authors>
+    <owners>Matt Mondok</owners>
+    <projectUrl>https://github.com/mondok/FixedTextFormatter</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.NET library for helping create fixed length strings and fields</description>
+    <releaseNotes>First release</releaseNotes>
+    <copyright>Copyright Matt Mondok 2014</copyright>
+    <tags>Text Strings Formatting</tags>
+  </metadata>
+</package>
